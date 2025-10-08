@@ -19,5 +19,4 @@ Quinto CheckPoint da Disciplina Relational Database And SQL
 
   SELECT * FROM cp_5_tarefas; -- 8 registros
 
-### ENTREGA INDIVIDUAL:  
-Arquivo PDF renomeado como TURMA_RMxxxx_CP5.PDF 
+#### ENTREGA INDIVIDUAL
