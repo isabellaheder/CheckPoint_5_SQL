@@ -2,6 +2,7 @@
 Quinto CheckPoint da Disciplina Relational Database And SQL
 
 ## RESOLVA AS 10 QUESTÕES DA PROVA (CADA UMA VALENDO 1 PONTO)
+- Questões no arquivo QUESTOES.md neste repositório
 
 ### INSTRUÇÕES INICIAIS (ANTES DAS QUESTÕES DA PROVA): 
 - Crie uma pasta no drive c: com o nome de cp5; 
