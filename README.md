@@ -3,7 +3,7 @@ Quinto CheckPoint da Disciplina Relational Database And SQL
 
 ## RESOLVA AS 10 QUESTÕES DA PROVA (CADA UMA VALENDO 1 PONTO)
 
-## INSTRUÇÕES INICIAIS (ANTES DAS QUESTÕES DA PROVA): 
+### INSTRUÇÕES INICIAIS (ANTES DAS QUESTÕES DA PROVA): 
 - Crie uma pasta no drive c: com o nome de cp5; 
 - Salve o arquivo cp5_script.sql na pasta que foi criada; 
 - Abra o Oracle SQL Developer; 
