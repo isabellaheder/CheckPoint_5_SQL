@@ -10,9 +10,12 @@ Quinto CheckPoint da Disciplina Relational Database And SQL
 - Conecte no banco de dados Oracle da FIAP; 
 - Execute o seguinte comando no script do Oracle SQL Developer: @c:/cp5/cp5_script.sql 
 - Caso queira, pode executar o arquivo cp5_scripts.sql (comando a comando) 
-- Após isso faça o SELECT nas seguintes tabelas: 
+- Após isso faça o SELECT nas seguintes tabelas:
+
   SELECT * FROM cp_5_colaboradores; -- 5 registros 
+
   SELECT * FROM cp_5_projetos; -- 4 registros   
+
   SELECT * FROM cp_5_tarefas; -- 8 registros
 
 ### ENTREGA INDIVIDUAL:  
